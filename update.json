@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "6.2",
+  "versionCode": 14,
+  "versionName": "6.3",
   "apk": "Painel.apk",
-  "notes": "Viagens e gastos: histórico por ignição, gastos por categoria e resumo do mês"
+  "notes": "Atualização mais clara: mostra o que encontrou, pede a permissão certa e explica qualquer erro"
 }
