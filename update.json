@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "6.1",
+  "versionCode": 13,
+  "versionName": "6.2",
   "apk": "Painel.apk",
-  "notes": "Agora se chama Vision Car: novo ícone e backup das configurações"
+  "notes": "Viagens e gastos: histórico por ignição, gastos por categoria e resumo do mês"
 }
