@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "5.1",
+  "versionCode": 10,
+  "versionName": "5.2",
   "apk": "Painel.apk",
-  "notes": "Papel de parede (foto, Android ou tema) e diagnóstico do CarPlay mais completo"
+  "notes": "Corrige troca de tema quando o modo automático (dia/noite) estava ligado"
 }
