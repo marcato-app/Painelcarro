@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "6.0",
+  "versionCode": 12,
+  "versionName": "6.1",
   "apk": "Painel.apk",
-  "notes": "Configuração inicial, rodízio, lembretes, computador de bordo, alerta de velocidade, brilho noturno, onde estacionei, gestos, boas-vindas, perfis e Meu tema"
+  "notes": "Agora se chama Vision Car: novo ícone e backup das configurações"
 }
