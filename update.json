@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "6.5",
+  "versionCode": 17,
+  "versionName": "6.6",
   "apk": "Painel.apk",
-  "notes": "Corrige a abertura automática do CarPlay logo depois de ligar o carro"
+  "notes": "Câmera: procura telas ocultas de câmera de ré da central"
 }
