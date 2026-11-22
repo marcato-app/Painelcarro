@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "6.4",
+  "versionCode": 16,
+  "versionName": "6.5",
   "apk": "Painel.apk",
-  "notes": "Câmera de ré a qualquer momento (botão Câmera) e nova opção: abrir o CarPlay só quando o iPhone conectar"
+  "notes": "Corrige a abertura automática do CarPlay logo depois de ligar o carro"
 }
