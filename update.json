@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "6.3",
+  "versionCode": 15,
+  "versionName": "6.4",
   "apk": "Painel.apk",
-  "notes": "Atualização mais clara: mostra o que encontrou, pede a permissão certa e explica qualquer erro"
+  "notes": "Câmera de ré a qualquer momento (botão Câmera) e nova opção: abrir o CarPlay só quando o iPhone conectar"
 }
